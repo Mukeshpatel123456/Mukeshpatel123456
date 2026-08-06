@@ -1,4 +1,4 @@
-![Banner](./image.png)
+
 
 # 👋 Hi, I'm Mukesh Patel
 
