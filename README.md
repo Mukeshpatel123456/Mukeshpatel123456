@@ -1,4 +1,4 @@
-![Banner](https://chatgpt.com/s/m_6a745d5338bc8191b34619c575af6ae0)
+![Banner](./ChatGPT Image Aug 6, 2026, 03_51_08 PM.png")
 
 # 👋 Hi, I'm Mukesh Patel
 
