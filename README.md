@@ -1,4 +1,4 @@
-![Banner](./ChatGPT Image Aug 6, 2026, 03_51_08 PM.png")
+![Banner](./image.png)
 
 # 👋 Hi, I'm Mukesh Patel
 
