@@ -66,9 +66,9 @@
 
 ## 📊 GitHub Stats
 
-![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukeshpatel123456&show_icons=true\&theme=tokyonight)
+![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukeshpatel123456&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukeshpatel123456&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukeshpatel123456&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mukeshpatel123456&theme=tokyonight)
 
