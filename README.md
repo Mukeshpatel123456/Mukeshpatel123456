@@ -72,8 +72,9 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/mukesh-patel-260b2a2a5?utm_source=share_via&utm_content=profile&utm_medium=member_android
-* 📧 Email: mukkupatel1213@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mukesh%20Patel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mukesh-patel-260b2a2a5)
+
+[![Email](https://img.shields.io/badge/Email-mukkupatel1213%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mukkupatel1213@gmail.com)
 
 ---
 
