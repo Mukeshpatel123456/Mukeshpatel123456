@@ -1,21 +1,6 @@
 ![Banner](./image.png)
 
-# 👋 Hi, I'm 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mukesh-patel-260b2a2a5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mukesh%20Patel-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="mailto:mukkupatel1213@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-mukkupatel1213%40gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-
-  <a href="https://github.com/Mukeshpatel123456" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Mukeshpatel123456-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+# 👋 Hi, I'm Mukesh Patel
 
 🎓 MCA Student | 💡 Aspiring AI Engineer | 🚀 Passionate Developer
 
