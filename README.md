@@ -109,9 +109,15 @@
   </a>
 </p>
 
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://github.com/Mukeshpatel123456">GitHub Profile</a> •
-  <a href="https://leetcode.com/u/Mukesh_Patel123/">LeetCode Profile</a>
+  <a href="https://github.com/Mukeshpatel123456">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/Mukesh_Patel123/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
 </p>
 ---
 
