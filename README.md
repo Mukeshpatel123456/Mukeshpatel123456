@@ -1,87 +1,152 @@
-![Banner](./image.png)
+# 👋 Hey, I'm Mukesh Patel
 
-# 👋 Hi, I'm Mukesh Patel
+### 💻 Aspiring AI Engineer | MCA Student | Python Developer
 
-🎓 MCA Student | 💡 Aspiring AI Engineer | 🚀 Passionate Developer
-
----
-
-## 🚀 About Me
-
-* 🎓 Currently pursuing **MCA (3rd Semester)**
-* 💡 Interested in **AI, Machine Learning & Web Development**
-* 💻 Love building real-world projects using **Python & Django**
-* 🎯 Goal: Become a skilled **AI Engineer**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Problem+Solver+%7C+LeetCode;Building+Real+World+Projects)](https://git.io/typing-svg)
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Connect With Me
 
-💻 Languages:
-`Python` `JavaScript` `C#` `VB.NET`
-
-🌐 Web Development:
-`HTML` `CSS` `Django` `Flask`
-
-📊 Data & AI:
-`NumPy` `Pandas` `Matplotlib` `Scikit-learn`
-
-🛢️ Database:
-`SQLite` `MySQL`
+<p align="center">
+  <a href="https://www.linkedin.com/in/mukesh-patel-260b2a2a5">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:mukkupatel1213@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Mukeshpatel123456">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 Projects
+## 👨‍💻 About Me
+
+- 🎓 Currently pursuing **MCA (3rd Semester)**
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🐍 Building projects using Python, Django & TensorFlow
+- 🧠 Practicing Data Structures and Algorithms
+- 🚀 Exploring Deep Learning, Computer Vision & Generative AI
+- 🎯 Goal: Become a skilled AI Engineer
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,cs,html,css"/>
+</p>
+
+### Frameworks & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,tensorflow,opencv"/>
+</p>
+
+### Data Science & AI
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</p>
+
+### Database & Development Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,visualstudio"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🚦 Traffic Sign Recognition System
+- Advanced CNN-based traffic sign classification
+- Real-time video recognition
+- Driver assistance application
+- Python, TensorFlow, OpenCV & Streamlit
 
 ### 🏥 Medical Management System
-
-* Patient & Doctor Management
-* Appointment Booking
-* Billing System
-* Built with Django
-
----
-
-### 🚦 Traffic Detection System (AI)
-
-* Real-time vehicle detection
-* YOLO-based model
-* Smart traffic analysis
-
----
-
-### 🧮 All-in-One Calculator
-
-* Multiple calculation features
-* GUI based (Tkinter)
-
----
+- Patient and doctor management
+- Appointment booking
+- Billing system
+- Django-based application
 
 ### 🤟 Sign Language to Text
+- Hand gesture recognition
+- Real-time gesture-to-text conversion
+- AI-based computer vision
 
-* Converts hand gestures to text
-* Real-time AI-based system
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Mukeshpatel123456&theme=tokyonight)
+### 🧮 All-in-One Calculator
+- Multiple calculation features
+- Interactive Tkinter GUI
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Analytics Dashboard
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mukesh%20Patel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mukesh-patel-260b2a2a5)
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mukeshpatel123456&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukeshpatel123456&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-[![Email](https://img.shields.io/badge/Email-mukkupatel1213%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mukkupatel1213@gmail.com)
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mukeshpatel123456&theme=tokyonight&hide_border=true"/>
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mukeshpatel123456&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukeshpatel123456&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-## ⚡ Fun Fact
+## 💻 LeetCode Profile
 
-💡 I love building projects, learning new tech, and staying consistent!
+<p align="center">
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap"/>
+  </a>
+</p>
 
 ---
 
-⭐ **If you like my work, don't forget to star my repositories!**
+## 🎯 Current Focus
+
+- 📚 Improving Data Structures & Algorithms
+- 🤖 Learning Advanced Machine Learning
+- 🧠 Exploring Deep Learning and CNN
+- 💻 Building industry-level projects
+- 🚀 Preparing for Software Developer & AI Engineer placements
+
+---
+
+## ⚡ Developer Quote
+
+> "Great things are built one line of code at a time."
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mukeshpatel123456&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  ⭐ If you like my work, consider starring my repositories!
+</p>
+
+<h3 align="center">Thanks for visiting my profile! 🚀</h3>
