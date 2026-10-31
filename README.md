@@ -101,11 +101,11 @@
 </p>
 
 ### 🏆 GitHub Trophies
+ GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mukeshpatel123456&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=Mukeshpatel123456&theme=tokyonight&hide_border=true" />
 </p>
-
 ### 📈 Contribution Activity
 
 <p align="center">
