@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/mukesh-patel-260b2a2a5">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+  <a href="https://leetcode.com/u/Mukesh_Patel123/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="mailto:mukkupatel1213@gmail.com">
@@ -118,8 +118,8 @@
 ## 💻 LeetCode Profile
 
 <p align="center">
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap"/>
+  <a href="https://leetcode.com/u/Mukesh_Patel123/">
+    <img src="https://leetcard.jacoblin.cool/Mukesh_Patel123?theme=dark&font=Baloo&ext=heatmap"/>
   </a>
 </p>
 
