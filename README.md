@@ -88,40 +88,31 @@
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=Mukeshpatel123456&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mukeshpatel123456&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Mukeshpatel123456&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mukeshpatel123456&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-### 🔥 Contribution Streak
+
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mukeshpatel123456&theme=tokyonight&hide_border=true"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=Mukeshpatel123456&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### 🏆 GitHub Trophies
- GitHub Contribution Streak
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Mukeshpatel123456&theme=tokyonight&hide_border=true" />
-</p>
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukeshpatel123456&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 💻 LeetCode Profile
+## 💻 LeetCode Analytics
 
 <p align="center">
   <a href="https://leetcode.com/u/Mukesh_Patel123/">
-    <img src="https://leetcard.jacoblin.cool/Mukesh_Patel123?theme=dark&font=Baloo&ext=heatmap"/>
+    <img src="https://leetcard.jacoblin.cool/Mukesh_Patel123?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Mukeshpatel123456">GitHub Profile</a> •
+  <a href="https://leetcode.com/u/Mukesh_Patel123/">LeetCode Profile</a>
+</p>
 ---
 
 ## 🎯 Current Focus
